@@ -4,3 +4,4 @@ This repository contains all assignment notebooks, data analysis, and code devel
 
 ## Table of Contents (ToC)
 - [Assignment 1: Data and Feature Engineering](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)
+- [Assignment 2: Exploratary Data Analysis (EDA)](./Assignment_2)
