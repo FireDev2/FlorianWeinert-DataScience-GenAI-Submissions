@@ -9,4 +9,4 @@ This repository contains all assignment notebooks, data analysis, and code devel
 - [Assignment 4: Random Forests & Modelling](./Assignment_4)
 - [Assignment 5: Machine Learning](./Assignment_5)
 - [Assignment 6: Convolutional & Self-Attention Layers](./Assignment_6)
-- [Assignment 7: ](./Assignment_7)
+- [Assignment 7: Transformer Model](./Assignment_7)
